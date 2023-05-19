@@ -386,5 +386,16 @@
     "WOUND.CRITICAL_INJURIES": "Blessures critiques",
     "WOUND.TOTAL": "Total",
     "WOUND.CURRENT": "Actuel",
-    "WOUND.CRITICAL_DAMAGE": "Dégats critiques"
+    "WOUND.CRITICAL_DAMAGE": "Dégats critiques",
+    "Askellon Sector": "Secteur Askellon",
+    "Chartist Captains": "Capitaine Chartiste",
+    "Imperial Creed": "Credo Impérial",
+    "Ecclesiarchy": "Ecclésiarchie",
+    "Imperial Guard": "Garde Impériale",
+    "Imperial Navy": "Marine Impériale",
+    "Navigators": "Navigateur",
+    "Planetary Defence Forces": "Force de Défense Planétaire",
+    "Tech": "Technologie",
+    "Underworld": "Sous-Monde",
+    "War": "Guerre"
 }
